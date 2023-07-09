@@ -1,0 +1,1032 @@
+<mjml>
+  <mj-head>
+    <mj-title>Digital Showroom Experience News</mj-title>
+    <mj-preview>March Edition</mj-preview>
+
+    <mj-attributes>
+      <mj-all
+        font-family="SKODA Next Light, Arial"
+        font-size="16px"
+        letter-spacing="0.02em"
+        padding="0"
+        line-height="135%"
+        color="#161718"
+        font-weight="300"
+      />
+      <mj-text
+        font-family="SKODA Next Light, Arial"
+        font-size="16px"
+        letter-spacing="0.02em"
+        padding="0"
+        line-height="135%"
+        color="#161718"
+        font-weight="300"
+      />
+      <mj-class
+        name="headline"
+        font-size="20px"
+        font-weight="700"
+        font-family="Skoda Next, Arial"
+        line-height="125%"
+        color="#161718"
+        letter-spacing="0.02em"
+      />
+      <mj-class
+        name="body-text"
+        font-size="16px"
+        font-weight="300"
+        font-family="Skoda Next Light, Arial"
+        line-height="125%"
+        color="#161718"
+        letter-spacing="0.02em"
+      />
+      <mj-class name="section" padding-left="40px" padding-right="40px" />
+    </mj-attributes>
+
+    <mj-style>
+      @media (max-width:610px) { .padding-mobile > table > tbody > tr > td {
+      padding-left: 25px !important; padding-right: 25px !important; } }
+    </mj-style>
+
+    <mj-style inline="inline">
+      .href { color: #78FAAE !important; text-decoration: underline; }
+      .href_browser { color: #161718 !important; text-decoration: underline
+      !important; } .mail { color: #161718 !important; text-decoration:
+      underline !important; } .mail_white { color: #ffffff !important;
+      text-decoration: underline !important; }
+    </mj-style>
+  </mj-head>
+
+  <mj-body background-color="#F5F5F5">
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-spacer height="40px" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section
+      background-color="#ffffff"
+      padding-left="24px"
+      padding-right="33px"
+      css-class="padding-mobile"
+    >
+      <mj-group>
+        <mj-column vertical-align="middle">
+          <mj-image
+            src="https://cdn-smartemailing.cz/262571/media/vx-new/december/logo-2x.png?_t=1671106419"
+            href="https://skoda-auto.com"
+            width="105px"
+            align="left"
+            alt="ŠKODA AUTO logo"
+          ></mj-image>
+        </mj-column>
+        <mj-column vertical-align="middle">
+          <mj-text align="right" font-size="12px" line-height="135%"
+            ><a
+              href="{{webversion}}"
+              class="href_browser"
+              font-size="12px"
+              line-height="133%"
+              color="#9E9FA0"
+              font-weight="300"
+              target="_blank"
+              >View in browser</a
+            ></mj-text
+          >
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-spacer height="40px" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          src="https://cdn-smartemailing.cz/262571/media/dise/digital-showroom-experience-news/full-bleed-banner.png?_t=1677061172"
+          width="600px"
+          alt="Be Part of Our Digital Experience"
+        />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFFFFF">
+      <mj-column>
+        <mj-spacer height="32px" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ffffff">
+      <mj-column vertical-align="middle">
+        <mj-text
+          font-family="Skoda Next, Arial"
+          align="center"
+          font-size="28px"
+          font-weight="700"
+          color="#0E3A2F"
+          line-height="125%"
+          padding-bottom="8px"
+        >
+          Digital Showroom Experience News
+        </mj-text>
+        <mj-text
+          font-family="Skoda Next Light, Arial"
+          align="center"
+          font-size="15px"
+          line-height="125%"
+          font-weight="300"
+        >
+          March 2023 Edition
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFFFFF">
+      <mj-column>
+        <mj-spacer height="31px" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Dear -->
+    <mj-wrapper
+      padding-top="48px"
+      padding-bottom="48px"
+      css-class="padding-mobile"
+      background-color="#F1F1F1"
+    >
+      <mj-section>
+        <mj-column width="504px">
+          <mj-text
+            font-family="Skoda Next, Arial"
+            font-size="20px"
+            padding-bottom="16px"
+            font-weight="700"
+          >
+            <strong>Dear Business Partners,</strong>
+          </mj-text>
+          <mj-text mj-class="body-text" padding-bottom="18px">
+            This is the year’s first Digital Showroom Experience News. The most
+            noteworthy news is the
+            <span
+              style="font-weight: 700; font-family: Skoda Next, Arial"
+              font-family="Skoda Next, Arial"
+              font-weight="700"
+              >release of DISE 4.0,</span
+            >
+            which introduces the changes described below. Download the new
+            version of the app now to offer customers in your showrooms the
+            latest content and an even better showroom experience.
+          </mj-text>
+
+          <mj-text mj-class="body-text" padding-bottom="18px">
+            Here’s wishing you a year brimming with innovations
+          </mj-text>
+          <mj-text mj-class="body-text">
+            The Digital Showroom Experience Team
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <mj-section background-color="#FFFFFF">
+      <mj-column>
+        <mj-spacer height="48px" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Img+text_1 -->
+    <mj-wrapper
+      mj-class="section"
+      css-class="padding-mobile"
+      background-color="#ffffff"
+    >
+      <mj-section>
+        <mj-column width="265px">
+          <mj-image
+            src="https://cdn-smartemailing.cz/262571/media/dise/digital-showroom-experience-news/frame-9153-16-03-1.png?_t=1678959041"
+            align="left"
+            width="241px"
+            padding-bottom="16px"
+            padding-right="24px"
+            alt="Marketing news"
+          ></mj-image>
+        </mj-column>
+
+        <mj-column width="237px">
+          <mj-text mj-class="headline" padding-bottom="16px">
+            New Škoda identity for Sales Support Tool and touch tools
+          </mj-text>
+
+          <mj-text mj-class="body-text">
+            In conjunction with the launch of our new corporate identity, we are
+            also rolling out a new design for our digital tools. The SST app and
+            touch tools are the first to be redesigned.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <mj-section background-color="#FFFFFF">
+      <mj-column>
+        <mj-spacer height="48px" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Img+text_2 -->
+    <mj-wrapper
+      mj-class="section"
+      css-class="padding-mobile"
+      background-color="#ffffff"
+    >
+      <mj-section>
+        <mj-column width="265px">
+          <mj-image
+            src="https://cdn-smartemailing.cz/262571/media/dise/digital-showroom-experience-news/image.png?_t=1678964933"
+            align="left"
+            width="241px"
+            padding-bottom="16px"
+            padding-right="24px"
+            alt="Marketing news"
+          ></mj-image>
+        </mj-column>
+
+        <mj-column width="237px">
+          <mj-text mj-class="headline" padding-bottom="16px">
+            New models and product update
+          </mj-text>
+
+          <mj-text mj-class="body-text">
+            The DISE apps now feature content for the
+            <span
+              style="font-weight: 700; font-family: Skoda Next, Arial"
+              font-family="Skoda Next, Arial"
+              font-weight="700"
+              >Enyaq iV RS, Enyaq Coupé iV</span
+            >
+            and
+            <span
+              style="font-weight: 700; font-family: Skoda Next, Arial"
+              font-family="Skoda Next, Arial"
+              font-weight="700"
+              >Enyaq Coupé iV Sportline</span
+            >
+            (Car Visualiser, Reasons to Buy articles and technical data on
+            engines). What’s more, the product content has been completely
+            updated in line with the
+            <span
+              style="font-weight: 700; font-family: Skoda Next, Arial"
+              font-family="Skoda Next, Arial"
+              font-weight="700"
+              >model care</span
+            >
+            from the end of last year.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <mj-section background-color="#FFFFFF">
+      <mj-column>
+        <mj-spacer height="48px" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Img+text_3 -->
+    <mj-wrapper
+      mj-class="section"
+      css-class="padding-mobile"
+      background-color="#ffffff"
+    >
+      <mj-section>
+        <mj-column width="265px">
+          <mj-image
+            src="https://cdn-smartemailing.cz/262571/media/dise/digital-showroom-experience-news/frame-9153-16-03-2.png?_t=1678959041"
+            align="left"
+            width="241px"
+            padding-bottom="16px"
+            padding-right="24px"
+            alt="Marketing news"
+          ></mj-image>
+        </mj-column>
+
+        <mj-column width="237px">
+          <mj-text mj-class="headline" padding-bottom="16px">
+            New Disclaimer function
+          </mj-text>
+
+          <mj-text mj-class="body-text">
+            A Disclaimer function is now available in the administration of the
+            Device App, Sales Support Tool and Car Information Stand. It can be
+            easily turned on and off in
+            <span
+              style="font-weight: 700; font-family: Skoda Next, Arial"
+              font-family="Skoda Next, Arial"
+              font-weight="700"
+              >CMS jNP.</span
+            >
+            Obviously, each market is free to include a disclaimer of its own
+            wording that
+            <span
+              style="font-weight: 700; font-family: Skoda Next, Arial"
+              font-family="Skoda Next, Arial"
+              font-weight="700"
+              >reflects the legislation applicable to that market.</span
+            >
+            The Disclaimer is displayed on the frontend of all devices.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <mj-section background-color="#FFFFFF">
+      <mj-column>
+        <mj-spacer height="48px" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Text_1 -->
+    <mj-section
+      mj-class="section"
+      css-class="padding-mobile"
+      background-color="#ffffff"
+    >
+      <mj-column>
+        <mj-text mj-class="headline">
+          New website address for managing cars for CIS
+        </mj-text>
+        <mj-text
+          font-family="Skoda Next Light, Arial"
+          padding-top="16px"
+          font-size="16px"
+          font-weight="300"
+          align="left"
+          color="#161718"
+        >
+          With the new data structure, the web address for creating and editing
+          cars for Car Information Stand (CIS) has changed. Now you can manage
+          cars for Car Information Stand (CIS) at
+          <a
+            href="https://diseadmin.skoda-auto.com/sms"
+            target="_blank"
+            style="text-decoration: underline"
+            ><span
+              style="color: #161718; text-decoration: underline"
+              target="_blank"
+              >diseadmin.skoda-auto.com/sms</span
+            ></a
+          >.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFFFFF">
+      <mj-column>
+        <mj-spacer height="48px" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Text_2 -->
+    <mj-section
+      mj-class="section"
+      css-class="padding-mobile"
+      background-color="#ffffff"
+    >
+      <mj-column>
+        <mj-text mj-class="headline">
+          System enhancements and stabilisation of DISE apps
+        </mj-text>
+        <mj-text
+          mj-class="body-text"
+          padding-top="16px"
+          align="left"
+          color="#161718"
+        >
+          All DISE apps have been given extensive system enhancements. The
+          optimisation of the data update process has made the apps more
+          stabilised and improved the customer experience.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFFFFF">
+      <mj-column>
+        <mj-spacer height="48px" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Text_3 -->
+    <mj-section
+      mj-class="section"
+      css-class="padding-mobile"
+      background-color="#ffffff"
+    >
+      <mj-column>
+        <mj-text mj-class="headline">
+          Automatic data update for the dealer network
+        </mj-text>
+        <mj-text
+          font-family="Skoda Next Light, Arial"
+          padding-top="16px"
+          font-size="16px"
+          font-weight="300"
+          align="left"
+          color="#161718"
+        >
+          In the Sales Support Tool, you now have the option to
+          <a
+            href="https://skoda-newsletter.com/digital-showroom-experience/automatic_update.jpg"
+            target="_blank"
+            style="text-decoration: underline"
+            ><span
+              style="color: #161718; text-decoration: underline"
+              target="_blank"
+              >set up automatic data updates</span
+            ></a
+          >
+          for the dealer network. This function lets you automatically update
+          content in Škoda Tube, Car Visualiser, accessories, technical
+          specifications, and articles. The feature is available for the touch
+          tools and Video Wall.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFFFFF">
+      <mj-column>
+        <mj-spacer height="48px" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Next Steps_importer -->
+    <mj-wrapper
+      mj-class="section"
+      css-class="padding-mobile"
+      background-color="#0E3A2F"
+      padding-top="48px"
+    >
+      <mj-section background-color="#0E3A2F" padding-bottom="24px">
+        <mj-column>
+          <mj-text mj-class="headline" color="#ffffff">
+            Importer's next steps
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <!-- 1 -->
+      <mj-section text-align="left" padding-bottom="24px">
+        <mj-column vertical-align="middle" width="46px">
+          <mj-image
+            src="https://cdn-smartemailing.cz/262571/media/dise/digital-showroom-experience-news/01.png?_t=1678117583"
+            align="left"
+            width="30px"
+            padding-right="16px"
+            padding-bottom="5px"
+            alt="Marketing news"
+          ></mj-image>
+        </mj-column>
+
+        <mj-column vertical-align="middle" width="420px">
+          <mj-text mj-class="body-text" font-size="16px" color="#FFFFFF">
+            <span
+              style="font-weight: 700; font-family: Skoda Next, Arial"
+              font-family="Skoda Next, Arial"
+              font-weight="700"
+              >Update your CMS jNP</span
+            >
+            as per your market conditions and your sales programmes
+            (configuration of visualisation, model structure and competitors).
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <!-- 2 -->
+      <mj-section text-align="left" padding-bottom="24px">
+        <mj-column vertical-align="middle" width="46px">
+          <mj-image
+            src="https://cdn-smartemailing.cz/262571/media/dise/digital-showroom-experience-news/02.png?_t=1678117584"
+            align="left"
+            width="30px"
+            padding-right="16px"
+            padding-bottom="5px"
+            alt="Marketing news"
+          ></mj-image>
+        </mj-column>
+
+        <mj-column vertical-align="middle" width="420px">
+          <mj-text mj-class="body-text" font-size="16px" color="#FFFFFF">
+            <span
+              style="font-weight: 700; font-family: Skoda Next, Arial"
+              font-family="Skoda Next, Arial"
+              font-weight="700"
+              >Localise the updated content</span
+            >
+            for your market. Request source files with new items for translation
+            at
+            <a
+              href="mailto:digital.showroom@skoda-auto.cz"
+              text-decoration="underline"
+              class="mail_white"
+              target="_blank"
+              >digital.showroom@skoda-auto.cz</a
+            >.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <!-- 3 -->
+      <mj-section text-align="left">
+        <mj-column vertical-align="middle" width="46px">
+          <mj-image
+            src="https://cdn-smartemailing.cz/262571/media/dise/digital-showroom-experience-news/03.png?_t=1678117584"
+            align="left"
+            width="30px"
+            padding-right="16px"
+            padding-bottom="5px"
+            alt="Marketing news"
+          ></mj-image>
+        </mj-column>
+
+        <mj-column vertical-align="middle" width="420px">
+          <mj-text mj-class="body-text" font-size="16px" color="#FFFFFF">
+            <span
+              style="font-weight: 700; font-family: Skoda Next, Arial"
+              font-family="Skoda Next, Arial"
+              font-weight="700"
+              >Inform your dealer network</span
+            >
+            about news.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <!-- Next Steps_dealer -->
+    <mj-wrapper
+      mj-class="section"
+      css-class="padding-mobile"
+      background-color="#0E3A2F"
+      padding-top="48px"
+      padding-bottom="48px"
+    >
+      <mj-section background-color="#0E3A2F" padding-bottom="24px">
+        <mj-column>
+          <mj-text mj-class="headline" color="#ffffff">
+            Dealer's next steps
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <!-- 1 -->
+      <mj-section text-align="left" padding-bottom="24px">
+        <mj-column vertical-align="middle" width="46px">
+          <mj-image
+            src="https://cdn-smartemailing.cz/262571/media/dise/digital-showroom-experience-news/01.png?_t=1678117583"
+            align="left"
+            width="30px"
+            padding-right="16px"
+            padding-bottom="5px"
+            alt="Marketing news"
+          ></mj-image>
+        </mj-column>
+
+        <mj-column vertical-align="middle" width="420px">
+          <mj-text mj-class="body-text" font-size="16px" color="#FFFFFF">
+            <span
+              style="font-weight: 700; font-family: Skoda Next, Arial"
+              font-family="Skoda Next, Arial"
+              font-weight="700"
+              >Download</span
+            >
+            the latest version of the
+            <span
+              style="font-weight: 700; font-family: Skoda Next, Arial"
+              font-family="Skoda Next, Arial"
+              font-weight="700"
+              >SST app – version 4.0.</span
+            >
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <!-- 2 -->
+      <mj-section text-align="left" padding-bottom="24px">
+        <mj-column vertical-align="middle" width="46px">
+          <mj-image
+            src="https://cdn-smartemailing.cz/262571/media/dise/digital-showroom-experience-news/02.png?_t=1678117584"
+            align="left"
+            width="30px"
+            padding-right="16px"
+            padding-bottom="5px"
+            alt="Marketing news"
+          ></mj-image>
+        </mj-column>
+
+        <mj-column vertical-align="middle" width="420px">
+          <mj-text mj-class="body-text" font-size="16px" color="#FFFFFF">
+            <span
+              style="font-weight: 700; font-family: Skoda Next, Arial"
+              font-family="Skoda Next, Arial"
+              font-weight="700"
+              >This updates the data</span
+            >
+            of all applications via the
+            <span
+              style="font-weight: 700; font-family: Skoda Next, Arial"
+              font-family="Skoda Next, Arial"
+              font-weight="700"
+              >Sales Support Tool.</span
+            >
+            Either manually or automatically (default option). Automatic updates
+            can be disabled in the
+            <a
+              href="https://skoda-newsletter.com/digital-showroom-experience/automatic_update.jpg"
+              target="_blank"
+              style="text-decoration: underline"
+              ><span
+                style="color: #ffffff; text-decoration: underline"
+                target="_blank"
+                >SST settings</span
+              ></a
+            >.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <!-- 3 -->
+      <mj-section text-align="left" padding-bottom="24px">
+        <mj-column vertical-align="middle" width="46px">
+          <mj-image
+            src="https://cdn-smartemailing.cz/262571/media/dise/digital-showroom-experience-news/03.png?_t=1678117584"
+            align="left"
+            width="30px"
+            padding-right="16px"
+            padding-bottom="5px"
+            alt="Marketing news"
+          ></mj-image>
+        </mj-column>
+
+        <mj-column vertical-align="middle" width="420px">
+          <mj-text mj-class="body-text" font-size="16px" color="#FFFFFF">
+            <span
+              style="font-weight: 700; font-family: Skoda Next, Arial"
+              font-family="Skoda Next, Arial"
+              font-weight="700"
+              >Restart all devices</span
+            >
+            within the digital showroom (not relevant for SST only markets).
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <!-- 4 -->
+      <mj-section text-align="left">
+        <mj-column vertical-align="middle" width="46px">
+          <mj-image
+            src="https://cdn-smartemailing.cz/262571/media/dise/digital-showroom-experience-news/04.png?_t=1678117584"
+            align="left"
+            width="30px"
+            padding-right="16px"
+            padding-bottom="5px"
+            alt="Marketing news"
+          ></mj-image>
+        </mj-column>
+
+        <mj-column vertical-align="middle" width="420px">
+          <mj-text mj-class="body-text" font-size="16px" color="#FFFFFF">
+            <span
+              style="font-weight: 700; font-family: Skoda Next, Arial"
+              font-family="Skoda Next, Arial"
+              font-weight="700"
+              >Download the updated content</span
+            >
+            for all available devices within the showroom.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <!-- Coming soon -->
+    <mj-wrapper
+      mj-class="section"
+      css-class="padding-mobile"
+      background-color="#F1F1F1"
+      padding-top="48px"
+      padding-bottom="48px"
+    >
+      <mj-section padding-bottom="24px">
+        <mj-column>
+          <mj-text mj-class="headline"> Coming soon </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section text-align="left" padding-bottom="24px">
+        <mj-column vertical-align="middle" width="46px">
+          <mj-image
+            src="https://cdn-smartemailing.cz/262571/media/dise/digital-showroom-experience-news/i.png?_t=1678117583"
+            align="left"
+            width="30px"
+            padding-right="16px"
+            padding-bottom="5px"
+            alt="Marketing news"
+          ></mj-image>
+        </mj-column>
+
+        <mj-column vertical-align="middle" width="420px">
+          <mj-text mj-class="body-text">
+            Complete redesign of apps in line with Škoda’s new corporate
+            identity
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section text-align="left" padding-bottom="24px">
+        <mj-column vertical-align="middle" width="46px">
+          <mj-image
+            src="https://cdn-smartemailing.cz/262571/media/dise/digital-showroom-experience-news/i.png?_t=1678117583"
+            align="left"
+            width="30px"
+            padding-right="16px"
+            padding-bottom="5px"
+            alt="Marketing news"
+          ></mj-image>
+        </mj-column>
+
+        <mj-column vertical-align="middle" width="420px">
+          <mj-text mj-class="body-text" font-size="16px">
+            Importer playlists for Škoda Tube
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section text-align="left">
+        <mj-column vertical-align="middle" width="46px">
+          <mj-image
+            src="https://cdn-smartemailing.cz/262571/media/dise/digital-showroom-experience-news/i.png?_t=1678117583"
+            align="left"
+            width="30px"
+            padding-right="16px"
+            padding-bottom="5px"
+            alt="Marketing news"
+          ></mj-image>
+        </mj-column>
+
+        <mj-column vertical-align="middle" width="420px">
+          <mj-text mj-class="body-text">
+            New assets to promote digital tools (photos and videos)
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <!-- Any questions? -->
+    <mj-wrapper
+      mj-class="section"
+      css-class="padding-mobile"
+      background-color="#ffffff"
+    >
+      <mj-section>
+        <mj-column>
+          <mj-text
+            font-family="Skoda Next, Arial"
+            align="left"
+            font-size="24px"
+            padding-top="48px"
+            font-weight="700"
+          >
+            Any questions?
+          </mj-text>
+          <mj-text
+            mj-class="body-text"
+            padding-top="24px"
+            align="left"
+            padding-bottom="24px"
+          >
+            We will be happy to answer any questions you may have at
+            <a
+              href="mailto:digital.showroom@skoda-auto.cz"
+              text-decoration="underline"
+              class="mail"
+              target="_blank"
+              >digital.showroom@skoda-auto.cz</a
+            >
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section text-align="left">
+        <mj-column width="170px" padding-right="15px">
+          <mj-text align="left" padding-right="15px">
+            <mj-raw>
+              <div>
+                <!--[if mso]>
+                <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="mailto:digital.showroom@skoda-auto.cz" style="height:44px;v-text-anchor:middle;width:136px;" arcsize="114%" stroke="f" fillcolor="#464748">
+                  <w:anchorlock/>
+                  <center>
+                <![endif]-->
+                <a
+                  href="mailto:digital.showroom@skoda-auto.cz"
+                  target="_blank"
+                  style="
+                    background-color: #464748;
+                    border-radius: 50px;
+                    color: #ffffff;
+                    display: inline-block;
+                    font-family: SKODA Next, Arial;
+                    font-size: 14px;
+                    letter-spacing: 0.75px;
+                    font-weight: bold;
+                    line-height: 44px;
+                    text-align: center;
+                    text-decoration: none;
+                    width: 136px;
+                    -webkit-text-size-adjust: none;
+                  "
+                  >Get in touch</a
+                >
+                <!--[if mso]>
+                  </center>
+                </v:roundrect>
+              <![endif]-->
+              </div>
+            </mj-raw>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#FFFFFF">
+        <mj-column>
+          <mj-spacer height="48px" />
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <!-- Visit HUX Space -->
+    <mj-wrapper
+      mj-class="section"
+      css-class="padding-mobile"
+      background-color="#F1F1F1"
+    >
+      <mj-section>
+        <mj-column>
+          <mj-text
+            font-family="Skoda Next, Arial"
+            align="left"
+            font-size="24px"
+            padding-top="48px"
+            font-weight="700"
+          >
+            Visit HUX Space
+          </mj-text>
+          <mj-text
+            mj-class="body-text"
+            align="left"
+            padding-top="24px"
+            padding-bottom="24px"
+          >
+            Don’t forget! All digital tools can be experienced in person at the
+            new HUX Space. If you’re interested in paying a visit, please
+            contact us at
+            <a
+              href="mailto:digital.showroom@skoda-auto.cz"
+              text-decoration="underline"
+              class="mail"
+              target="_blank"
+              >digital.showroom@skoda-auto.cz.</a
+            >
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section text-align="left">
+        <mj-column width="170px" padding-right="15px">
+          <mj-text align="left" padding-right="15px">
+            <mj-raw>
+              <div>
+                <!--[if mso]>
+                <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="mailto:digital.showroom@skoda-auto.cz" style="height:44px;v-text-anchor:middle;width:136px;" arcsize="114%" stroke="f" fillcolor="#464748">
+                  <w:anchorlock/>
+                  <center>
+                <![endif]-->
+                <a
+                  href="mailto:digital.showroom@skoda-auto.cz"
+                  target="_blank"
+                  style="
+                    background-color: #464748;
+                    border-radius: 50px;
+                    color: #ffffff;
+                    display: inline-block;
+                    font-family: SKODA Next, Arial;
+                    font-size: 14px;
+                    letter-spacing: 0.75px;
+                    font-weight: bold;
+                    line-height: 44px;
+                    text-align: center;
+                    text-decoration: none;
+                    width: 136px;
+                    -webkit-text-size-adjust: none;
+                  "
+                  >Get in touch</a
+                >
+                <!--[if mso]>
+                  </center>
+                </v:roundrect>
+              <![endif]-->
+              </div>
+            </mj-raw>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#F1F1F1">
+        <mj-column>
+          <mj-spacer height="24px" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column width="504px">
+          <mj-image
+            padding-bottom="48px"
+            src="https://cdn-smartemailing.cz/262571/media/dise/digital-showroom-experience-news/frame-9155.png?_t=1677061170"
+            alt="Header Small"
+          />
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <!-- footer -->
+    <mj-section
+      mj-class="section"
+      css-class="padding-mobile"
+      padding-top="24px"
+      padding-bottom="24px"
+      background-color="#0E3A2F"
+    >
+      <mj-column>
+        <mj-text
+          color="#FFFFFF"
+          font-size="12px"
+          line-height="111%"
+          letter-spacing="0.02em"
+          font-family="Skoda Next Light, Arial"
+          padding-bottom="15px"
+        >
+          © ŠKODA AUTO a. s.
+        </mj-text>
+
+        <mj-text
+          color="#FFFFFF"
+          font-size="12px"
+          line-height="111%"
+          letter-spacing="0.02em"
+          font-family="Skoda Next Light, Arial"
+          padding-bottom="15px"
+        >
+          Contact e-mail
+          <a
+            href="mailto:digital.showroom@skoda-auto.cz"
+            color="#FFFFFF"
+            text-decoration="underline"
+            target="_blank"
+            >digital.showroom@skoda-auto.cz.</a
+          >
+          <br />
+
+          <a
+            href="https://www.skoda-dealernetwork.com"
+            target="_blank"
+            style="text-decoration: underline"
+            ><span
+              style="color: #ffffff; text-decoration: underline"
+              target="_blank"
+              >www.skoda-dealernetwork.com</span
+            ></a
+          >
+          <br />
+          <br />
+
+          If you have trouble viewing this document, please click
+          <a
+            href="{{webversion}}"
+            target="_blank"
+            style="text-decoration: underline"
+            ><span
+              style="color: #ffffff; text-decoration: underline"
+              target="_blank"
+              >here</span
+            ></a
+          >.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-spacer height="20px" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
